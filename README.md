@@ -17,6 +17,8 @@ questions and suggestions from my viewers on my [Youtube channel](https://www.yo
 
 ### Comments
 
+> Backend As A Service (BaaS) like Firebase, AWS Amplify are trending right now. Will it replace back-end engineers?
+
 > I'm a programmer and I want to quit programming, what should I do?
 
 > I'm losing motivation in a project I am a part of, and it is becoming more difficult to continue working on this project, and I feel like I'm not contributing to the highest extent that I can. Does this make me a bad developer?
